@@ -1,0 +1,7 @@
+{
+  "files.trimFinalNewlines": true,
+  "python.pythonPath": ".venv/bin/python3.8",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false
+}
+
